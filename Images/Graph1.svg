@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="572" height="599" viewBox="0 0 572 599">
+  <defs>
+    <style>
+      .cls-1, .cls-7, .cls-8, .cls-9 {
+        fill: #0e1625;
+      }
+
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+
+      .cls-10, .cls-11 {
+        fill: #1380c4;
+      }
+
+      .cls-2 {
+          opacity: 0.1; 
+         fill: #96989a; 
+      }
+
+      .cls-3 {
+        stroke: #96989a;
+        stroke-linecap: round;
+        stroke-width: 2px;
+        stroke-dasharray: 0.001,4;
+        fill: none;
+        opacity: 0.3;
+      }
+
+      .cls-4, .cls-5, .cls-6, .cls-7 {
+        font-size: 15.482px;
+      }
+
+      .cls-5 {
+        fill: #1b2433;
+        text-anchor: middle;
+        font-family: "Montserrat";
+        font-weight: bold;
+      }
+
+      .cls-6 {
+        opacity: 0.5;
+      }
+
+      .cls-7 {
+        font-family: "Montserrat";
+        font-weight: 300;
+      }
+
+      .cls-8 {
+        opacity: 0.2;
+      }
+
+      .cls-9 {
+        opacity: 0.4;
+      }
+
+      .cls-10 {
+        opacity: 0.6;
+      }
+    </style>
+  </defs>
+  <g>
+    <path d="M275.610,50.785 C275.415,50.980 275.159,51.078 274.903,51.078 C274.648,51.078 274.392,50.980 274.197,50.785 L269.080,45.668 L269.080,554.586 L274.035,549.630 C274.426,549.240 275.058,549.240 275.448,549.630 C275.839,550.020 275.839,550.653 275.448,551.044 L268.788,557.705 C268.764,557.728 268.740,557.751 268.714,557.772 C268.712,557.773 268.711,557.774 268.710,557.775 C268.686,557.794 268.661,557.813 268.635,557.830 C268.634,557.831 268.632,557.832 268.631,557.833 C268.525,557.903 268.405,557.953 268.276,557.979 C268.272,557.980 268.267,557.980 268.262,557.981 C268.235,557.986 268.208,557.990 268.180,557.993 C268.147,557.996 268.114,557.998 268.080,557.998 C268.047,557.998 268.014,557.996 267.981,557.993 C267.953,557.990 267.926,557.986 267.899,557.981 C267.894,557.980 267.889,557.980 267.884,557.979 C267.755,557.953 267.635,557.903 267.530,557.833 C267.528,557.832 267.527,557.831 267.526,557.830 C267.500,557.813 267.475,557.794 267.451,557.775 C267.449,557.774 267.448,557.773 267.447,557.772 C267.421,557.751 267.396,557.728 267.373,557.705 L260.390,550.721 C259.999,550.330 259.999,549.698 260.390,549.308 C260.780,548.918 261.412,548.918 261.803,549.308 L267.081,554.586 L267.081,45.346 L261.964,50.463 C261.573,50.853 260.941,50.853 260.550,50.463 C260.160,50.073 260.160,49.440 260.550,49.050 L267.213,42.387 C267.603,41.997 268.235,41.997 268.626,42.387 L275.610,49.371 C276.000,49.762 276.000,50.395 275.610,50.785 Z" class="cls-1"/>
+    <g>
+      <circle cx="267.5" cy="297.5" r="198.5" class="cls-2"/>
+      <circle cx="264" cy="205" r="93" class="cls-3"/>
+      <circle cx="220.5" cy="326.5" r="178.5" class="cls-3"/>
+      <circle cx="327.5" cy="294.5" r="178.5" class="cls-3"/>
+    </g>
+    <text x="267" y="12" class="cls-4"><tspan class="cls-5">User Experience</tspan></text>
+    <text x="95" y="54" class="cls-6"><tspan class="cls-5">Private Equity</tspan></text>
+    <text x="52" y="142" class="cls-4"><tspan class="cls-7">Lots of legal paperwork</tspan></text>
+    <text x="10" y="253" class="cls-4"><tspan class="cls-7">Pitch after pitch</tspan></text>
+    <text x="80" y="359" class="cls-4"><tspan class="cls-7">Labor intensive  </tspan><tspan dy="1.2em" x="80" class="cls-7">manual funding</tspan><tspan dy="1.2em" x="80" class="cls-7">search</tspan></text>
+    <text x="55" y="478" class="cls-4"><tspan class="cls-7">High processing fees</tspan></text>
+    <text x="430" y="54" class="cls-6"><tspan class="cls-5">Public Equity</tspan></text>
+    <text x="267" y="599" class="cls-4"><tspan class="cls-5">Costs</tspan></text>
+    <image xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAACIAAAAiCAMAAAANmfvwAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAATlBMVEUAAAAOFiUOFiUOFiUOFiUOFiUOFiUOFiUOFiUOFiUOFiUOFiUOFiUOFiUOFiUOFiUOFiUOFiUOFiUOFiUOFiUOFiUOFiUOFiUOFiUAAADRwb2VAAAAGXRSTlMABBMgKS8yBQwkMwcSMBkYI0xwgUtdhTEUKQxp1QAAAAFiS0dEAIgFHUgAAAAJcEhZcwAACxIAAAsSAdLdfvwAAADMSURBVDjLjZTZEoMwCEUxmwaNbRKX/v+X1rFaiUbDfePOGUECAByqhFTaGK2kqCGnxhr8y9jmArQWT7JtSnQOL3IdJXrMqj+IF2KB6fBWW67W3SPuV7PFB9m1H/iopvQRxPfSdfOMmApEYvgQYxgSS4Ck4TitGqknQZFomDZ5YirQJAo7EoipgVYbdyTSejkIIxEt1+fLZfx0pnU+sQTUpQeoi89oecPAGCnOYDLG+3aNkkUqr9qSa74Cc7KwnLU/Hw/MHI/0BH3oCfoC21woGZlP3gMAAAAASUVORK5CYII=" y="120" width="34" height="34"/>
+    <circle cx="183" cy="249" r="17" class="cls-8"/>
+    <circle cx="183" cy="249" r="5" class="cls-9"/>
+    <circle cx="45" cy="363" r="17" class="cls-8"/>
+    <circle cx="45" cy="363" r="5" class="cls-9"/>
+    <circle cx="19" cy="473" r="17" class="cls-8"/>
+    <circle cx="19" cy="473" r="5" class="cls-9"/>
+    <circle cx="328" cy="137" r="17" class="cls-10"/>
+    <circle cx="328" cy="137" r="5" class="cls-11"/>
+    <circle cx="381" cy="249" r="17" class="cls-10"/>
+    <circle cx="381" cy="249" r="5" class="cls-11"/>
+    <circle cx="492" cy="363" r="17" class="cls-10"/>
+    <circle cx="492" cy="363" r="5" class="cls-11"/>
+    <circle cx="330" cy="473" r="17" class="cls-10"/>
+    <circle cx="330" cy="473" r="5" class="cls-11"/>
+    <text x="363" y="142" class="cls-4"><tspan class="cls-7">Standardized <tspan dy="1.2em" x="366" class="cls-7">documentation</tspan></tspan></text>
+    <text x="417" y="246" class="cls-4"><tspan class="cls-7">Pitch once </tspan></text>
+    <text x="313" y="368" class="cls-4"><tspan class="cls-7">Lots of automation</tspan></text>
+    <text x="366" y="461" class="cls-4"><tspan class="cls-7">Straightforward 2% fee </tspan><tspan dy="1.2em" x="366" class="cls-7">on the total offering </tspan><tspan dy="1.2em" x="366" class="cls-7">amount</tspan></text>
+  </g>
+</svg>
